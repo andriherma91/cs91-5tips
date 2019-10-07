@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://duniaadsense91.blogspot.com/2019/08/dls-2020-mod-juventus-apk-obb-max.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://duniaadsense91.blogspot.com/p/test.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
